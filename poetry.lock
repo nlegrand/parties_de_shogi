@@ -1,0 +1,17 @@
+[[package]]
+name = "python-shogi"
+version = "1.0.15"
+description = "A pure Python shogi library with move generation and validation and handling of common formats."
+category = "main"
+optional = false
+python-versions = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "9726d09730ea47dcc66e0936d54080c50e57e5182e5bf001d64d09d1e9ad9121"
+
+[metadata.files]
+python-shogi = [
+    {file = "python-shogi-1.0.15.tar.gz", hash = "sha256:e26a5e7ca0d294ffb1d32ea678a0f48a07a7e0d6819d293b2113df1046430fa8"},
+]
